@@ -48,6 +48,7 @@
 		B63020C01BA0123100FF3940 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/PreferencesWindow.storyboard; sourceTree = "<group>"; };
 		B63020C21BA013BF00FF3940 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		B63020C41BA014AD00FF3940 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B6F3437D1BA536B5005B478F /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 				B63020A91BA0011800FF3940 /* PrefWindowApp2Tests */,
 				B63020C21BA013BF00FF3940 /* LICENSE */,
 				B63020C41BA014AD00FF3940 /* README.md */,
+				B6F3437D1BA536B5005B478F /* demo.gif */,
 				B63020911BA0011800FF3940 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -443,6 +445,7 @@
 				B63020B21BA0011800FF3940 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B63020B31BA0011800FF3940 /* Build configuration list for PBXNativeTarget "PrefWindowApp2Tests" */ = {
 			isa = XCConfigurationList;
@@ -451,6 +454,7 @@
 				B63020B51BA0011800FF3940 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
